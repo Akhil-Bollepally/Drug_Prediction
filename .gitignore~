@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.hdf5
+*.weights
+.env
+*.docx
+datasets/
+data/

@@ -62,7 +62,7 @@ This project is developed as a **college academic project** with an emphasis on 
 
 ## How to Run the Project
 
-### ✅ Prerequisites
+### Prerequisites
 - Python 3.7 or above  
 - Django  
 - Required Python libraries  
